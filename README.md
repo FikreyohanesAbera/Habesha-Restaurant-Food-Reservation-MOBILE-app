@@ -1,14 +1,48 @@
-# Habesha-Restaurant-Food-Reservation-MOBILE-app
-Purpose:
+# 🍴 Habesha Restaurant Food Reservation Mobile App
 
-This mobile application lets you book reservation for a meal at a food shop like a restaurant or a hotel. You can reserve your place and order beforehand so that when you arrive at the hotel, you'll have your seat and your meal ready. Additionally, It also have a feature to reserve conference rooms remotely, which allows the hotel managers prepare the necessary things like preparing food, cleaning the halls, figure out the size of the audience and plan accordingly. Not only you can reserve your meal at your specified time it also allows you to place categories like family, couple or solo meals and also lets you select on which floor. You can cancel and update/postpone your reservation.
+## 📌 Overview
+The **Habesha Restaurant Food Reservation Mobile App** is a mobile solution designed to simplify meal and conference room reservations at restaurants, hotels, and similar venues.  
 
-Roles in the app:
-Customers and Admins
+With this app, customers can:
+- Reserve seats and meals ahead of time.
+- Book conference rooms remotely.
+- Enjoy a faster and more organized dining or meeting experience.
 
-Tech stacks and others:
--Flutter
-Versions of the app which uses bloc and riverpod for state management
--Nest js and mongoDB
--DDD architecuture 
+Admins (e.g., hotel or restaurant managers) can efficiently prepare seating, meals, and event setups in advance.
+
+---
+
+## ✨ Features
+- **Meal Reservations**: Reserve your seat and order food ahead of time.
+- **Conference Room Booking**: Schedule rooms remotely with details for audience size, food, and setup requirements.
+- **Flexible Options**:
+  - Book by category: *family*, *couple*, or *solo*.
+  - Choose your preferred floor or hall.
+- **Manage Reservations**:
+  - Update, postpone, or cancel reservations with ease.
+- **Admin Preparation Tools**: Helps staff plan food, seating, and cleaning schedules.
+-  Includes **Unit Tests**, **Integration Tests**, and **Widget Tests** for reliability.
+
+---
+
+## 👥 Roles
+- **Customer**:  
+  Reserve meals and rooms, manage and update bookings.  
+
+- **Admin**:  
+  View and manage reservations, prepare meals, rooms, and events based on bookings.  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend (Mobile App)**: [Flutter](https://flutter.dev/)  
+  - Versions available with **BLoC** and **Riverpod** for state management.  
+- **Backend**: [NestJS](https://nestjs.com/) + [MongoDB](https://www.mongodb.com/)  
+- **Architecture**: Domain-Driven Design (DDD)  
+
+---
+
+
+
+
 
